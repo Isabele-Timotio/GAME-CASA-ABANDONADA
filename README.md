@@ -1,3 +1,5 @@
-# PEQUENO GRANDE MEDO
-## descrição sobre todo o jogo e desing disponível na wiki!
-## Está na wiki também a descrição do mobile produzido ao jogo.
+<h1>PEQUENO GRANDE MEDO</h1>
+<h3> Nome dos integrantes: Isabele Timotio e Lucas Wey - 3°JD </h3>
+<br>
+<h2>DESCRIÇÃO MOBILE</h2>
+
