@@ -5,10 +5,8 @@
 <h2>°• 《Introdução》 •°</h2>
 <p> Criamos um aplicativo wiki baseado em nosso jogo do Unity chamado Pequeno grande medo, ambos solicitados pela professora Aline Brito das matéria de Mobile e Linguagem de programação.
 Ele é semelhante a outros app como Netflix, banco digital, etc; contendo seis abas incluindo a de menu e uma intent explícita levando a um site que será demonstrado nas próximas páginas. </p>
-![image](https://github.com/Isabele-Timotio/GAME-CASA-ABANDONADA/assets/101645908/12f51804-10d9-4158-a04e-28adeab5bc82)
-
+![historia](https://github.com/Isabele-Timotio/GAME-CASA-ABANDONADA/assets/101645908/e8dbe684-87c7-42d1-9c64-e1681f494ceb)
 <br>
-
 
 <h2>°• 《História》 •° </h2>
 <p> Nesta tela utilizamos textView para escrever o título e o enrendo da história. E nós fantasma abaixo temos buttons transparentes, para isso usamos o imageButton deixando os valores de cores e imagens vazios, sendo o de voltar para a tela de menu na esquerda e o de avançar na direita. </p>
