@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundo"
+    tools:context=".historia">
+
+    <TextView
+        android:id="@+id/textTituloEnredo"
+        android:layout_width="187dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="112dp"
+        android:layout_marginTop="85dp"
+        android:layout_marginEnd="112dp"
+        android:layout_marginBottom="20dp"
+        android:fontFamily="@font/black_and_white_picture"
+        android:text="@string/textTituloEnredo"
+        android:textColor="#A56B98"
+        android:textColorHighlight="#730A5C"
+        android:textSize="60sp"
+        app:layout_constraintBottom_toTopOf="@+id/textHistoria"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="HardcodedText,MissingConstraints,TextSizeCheck" />
+
+
+    <TextView
+        android:id="@+id/textHistoria"
+        android:layout_width="265dp"
+        android:layout_height="304dp"
+        android:layout_marginStart="73dp"
+        android:layout_marginTop="69dp"
+        android:layout_marginEnd="73dp"
+        android:layout_marginBottom="214dp"
+        android:fontFamily="@font/ravi_prakash"
+        android:text="@string/textEnredo"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textTituloEnredo"
+        tools:ignore="HardcodedText,MissingConstraints,TextSizeCheck" />
+
+    <ImageButton
+        android:id="@+id/imagebtnVoltar"
+        android:layout_width="102dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="85dp"
+        android:layout_marginEnd="245dp"
+        android:layout_marginBottom="60dp"
+        android:backgroundTint="#00FFFFFF"
+        android:tint="#00FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textHistoria"
+        app:srcCompat="@drawable/ic_launcher_foreground"
+        tools:ignore="ContentDescription,MissingConstraints,SpeakableTextPresentCheck,UseAppTint"
+        tools:srcCompat="@android:drawable/divider_horizontal_textfield" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

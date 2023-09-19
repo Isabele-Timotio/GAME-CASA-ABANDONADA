@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Pquenogrande medo</string>
+    <string name="redes_sociais">Redes Sociais</string>
+    <string name="textSaia">" A barata colecionava coisas e uma delas era as saias, sendo a favorita dela a velhinha fantasma que se chama Filomena. Ela dizia que ela tinha 7 tesouros (as saias), maas era mentira porque o únic tesouro é a saia da Filó."</string>
+    <string name="textHistBarata" />
+    <string name="textEnredo">Em um bairro comum existia uma casa abandonada que morava antigamente um velhinha que sempre estava dando uma festa no final de semana, e um trio de amigos sendo ele composto por uma menina e dois meninos que gostam de aventuras morava na mesma rua que está casa. Em uma noite dois desses amigos desafiaram a Caroline entrar na casa abandonada aonde a personagem principal enfrentará seus medos e terá que superá-los para sair de lá.</string>
+    <string name="textPersonagem">História: A Caroline vive no bairro onde fica a casa abandonada e frequenta a mesma escola que seus dois amigos o Steve e Henri. Gosta bastante de se aventurar e tem uma personalidade forte.</string>
+    <string name="textView4">" História: esta velhinha chamada Filomena era dona da casa abandonada e em vida fazia bastante festas, mas ela não conseguia ir para seu sótão por conta de uma barata grande que estava lá e quando morreu, não conseguiu descansar por completo por nunca poder ir ao seu sótão e acabou aprisionada na casa. Ela só conseguirá descansar em paz quando a barata morrer."</string>
+    <string name="textTexto">Nós planejamos está playlist para você, caro jogador ou jogadora ter uma imersão maior dentro do jogo e que se sinta parte dele! Esperamos que goste.</string>
+    <string name="textPlaylist">Playlist</string>
+    <string name="textTitulo">Personagens</string>
+    <string name="textTituloEnredo">Enredo</string>
+    <string name="textEastereeg">Easter Egg</string>
+    <string name="textBoss">Boss</string>
+    <string name="textBarata">História: a barata nasceu naquele sótão e passou a gostar de lá, tanto que nunca saiu de seu local de nascimento. Ninguém conseguiu encontrar ela e quando encontrava saia correndo no mesmo momento, mas mau sabe ela que um dia encontraria uma garotinha corajosa.</string>
+    <string name="btnInstagram">Instagram</string>
+    <string name="btnRedesSociais">Redes Sociais</string>
+    <string name="btnHistoria">História</string>
+    <string name="btnPersonagens">Personagens</string>
+    <string name="btnBoss">Boos</string>
+    <string name="btnPlaylist">Playlist</string>
+    <string name="btnEasterEgg">Easter Egg</string>
+    <string name="btnThreads">Threads</string>
+</resources>
