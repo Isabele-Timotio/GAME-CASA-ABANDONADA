@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/easteregg"
+    tools:context=".easteregg">
+
+    <ImageView
+        android:id="@+id/imageSaias"
+        android:layout_width="103dp"
+        android:layout_height="113dp"
+        android:layout_marginStart="200dp"
+        android:layout_marginTop="201dp"
+        android:layout_marginBottom="24dp"
+        app:layout_constraintBottom_toTopOf="@+id/textSaia"
+        app:layout_constraintEnd_toStartOf="@+id/imageSaiaFilo"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/saias1"
+        tools:ignore="ContentDescription,MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageBarata1"
+        android:layout_width="85dp"
+        android:layout_height="149dp"
+        android:layout_marginTop="171dp"
+        android:layout_marginEnd="190dp"
+        android:layout_marginBottom="18dp"
+        android:background="@drawable/barata_frame1"
+        android:src="@drawable/barata_frame1"
+        app:layout_constraintBottom_toTopOf="@+id/textSaia"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageSaiaFilo"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="ContentDescription,MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textSaia"
+        android:layout_width="241dp"
+        android:layout_height="166dp"
+        android:layout_marginStart="58dp"
+        android:layout_marginTop="18dp"
+        android:layout_marginEnd="57dp"
+        android:layout_marginBottom="100dp"
+        android:fontFamily="@font/ravi_prakash"
+        android:text="@string/textSaia"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@+id/imagebtnVoltar5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageBarata1"
+        tools:ignore="HardcodedText,MissingConstraints,TextContrastCheck,VisualLintLongText,VisualLintBounds,TextSizeCheck" />
+
+    <ImageView
+        android:id="@+id/imageSaiaFilo"
+        android:layout_width="33dp"
+        android:layout_height="31dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="264dp"
+        android:layout_marginEnd="3dp"
+        android:layout_marginBottom="43dp"
+        android:src="@drawable/saiafilo"
+        app:layout_constraintBottom_toTopOf="@+id/textSaia"
+        app:layout_constraintEnd_toStartOf="@+id/imageBarata1"
+        app:layout_constraintStart_toEndOf="@+id/imageSaias"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="ContentDescription,MissingConstraints" />
+
+    <ImageButton
+        android:id="@+id/imagebtnVoltar5"
+        android:layout_width="100dp"
+        android:layout_height="63dp"
+        android:layout_marginStart="58dp"
+        android:layout_marginEnd="253dp"
+        android:layout_marginBottom="64dp"
+        android:backgroundTint="#00FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="ContentDescription,MissingConstraints,SpeakableTextPresentCheck" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
