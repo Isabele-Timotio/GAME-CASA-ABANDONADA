@@ -4,7 +4,7 @@
 <h2>DESCRIÇÃO MOBILE</h2>
 <h2>°• 《Introdução》 •°</h2>
 <p> Criamos um aplicativo wiki baseado em nosso jogo do Unity chamado Pequeno grande medo, ambos solicitados pela professora Aline Brito das matéria de Mobile e Linguagem de programação.
-Ele é semelhante a outros app como Netflix, banco digital, etc; contendo seis abas incluindo a de menu e uma intent explícita levando a um site que será demonstrado nas próximas páginas. </p>
+Ele é semelhante a outros app como Netflix, banco digital, etc; contendo sete abas incluindo a de menu e três intent explícita levando a um site que será demonstrado nas próximas páginas. </p>
 ![historia](https://github.com/Isabele-Timotio/GAME-CASA-ABANDONADA/assets/101645908/e8dbe684-87c7-42d1-9c64-e1681f494ceb)
 <br>
 
