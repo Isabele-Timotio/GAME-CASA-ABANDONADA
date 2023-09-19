@@ -34,7 +34,9 @@ Temos aqui um imageView e dois textView para título e texto também, e os botõ
 <br>
 
 <h2>°• 《Easter egg》 •°</h2>
-<p> Na última tela temos a descrição de um easter egg do jogo juntamente do botão transparente abaixo que leva a tela de menu. </p>
+<p> Na penúltima tela temos a descrição de um easter egg do jogo juntamente do botão transparente abaixo que leva a tela de menu. </p>
 ![image](https://github.com/Isabele-Timotio/GAME-CASA-ABANDONADA/assets/101645908/3ecea5cd-fbe8-4008-bdb6-7522cd1ca4f3)
 
-
+<h2>°• 《Redes Sociais》 •°</h2>
+<p> Na última tela temos dois botões levando a gente para as redes sociais de nosso empresa, sendo como principal rede o Instagram e seu segundo aplicativo Threads. </p>
+![image](https://github.com/Isabele-Timotio/GAME-CASA-ABANDONADA/assets/101645908/c5a95eaf-95ed-41e4-8368-896e18b2c9e5)
