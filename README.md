@@ -46,6 +46,6 @@ Temos aqui um imageView e dois textView para título e texto também, e os botõ
 <div>
 <h2>°• 《Redes Sociais》 •°</h2>
 <p> Na última tela temos dois botões levando a gente para as redes sociais de nosso empresa, sendo como principal rede o Instagram e seu segundo aplicativo Threads. </p>
-![Uploading image.png…]()
+![image](https://github.com/Isabele-Timotio/GAME-CASA-ABANDONADA/assets/101645908/5011d54f-0f73-4da0-af41-6ecd2bf26aa8)
 
 </div>
