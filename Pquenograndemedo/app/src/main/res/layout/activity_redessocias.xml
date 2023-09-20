@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/redes_sociais"
+    tools:context=".redessocias">
+
+    <ImageButton
+        android:id="@+id/imagebtnVoltar6"
+        android:layout_width="102dp"
+        android:layout_height="52dp"
+        android:layout_marginStart="74dp"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="235dp"
+        android:layout_marginBottom="65dp"
+        android:onClick="MAinActivity"
+        android:backgroundTint="#00FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView4"
+        tools:ignore="ContentDescription,ImageContrastCheck,MissingConstraints,SpeakableTextPresentCheck,UnknownIdInLayout" />
+
+    <Button
+        android:id="@+id/btnInstagram"
+        android:layout_width="140dp"
+        android:layout_height="77dp"
+        android:layout_marginStart="135dp"
+        android:layout_marginTop="270dp"
+        android:layout_marginEnd="136dp"
+        android:layout_marginBottom="29dp"
+        android:backgroundTint="#A46B97"
+        android:fontFamily="@font/ravi_prakash"
+        android:text="@string/btnInstagram"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/btnThreads"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/btnThreads"
+        android:layout_width="137dp"
+        android:layout_height="76dp"
+        android:layout_marginStart="138dp"
+        android:layout_marginTop="29dp"
+        android:layout_marginEnd="136dp"
+        android:layout_marginBottom="162dp"
+        android:backgroundTint="#A46B97"
+        android:fontFamily="@font/ravi_prakash"
+        android:text="@string/btnThreads"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/imagebtnVoltar6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnInstagram" />
+</androidx.constraintlayout.widget.ConstraintLayout>

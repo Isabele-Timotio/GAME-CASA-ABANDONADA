@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/playlist"
+    tools:context=".playlist">
+
+    <TextView
+        android:id="@+id/textTexto"
+        android:layout_width="274dp"
+        android:layout_height="234dp"
+        android:layout_marginStart="68dp"
+        android:layout_marginTop="200dp"
+        android:layout_marginEnd="69dp"
+        android:layout_marginBottom="8dp"
+        android:autoLink="none"
+        android:fontFamily="@font/ravi_prakash"
+        android:text="@string/textTexto"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toTopOf="@+id/btnSpotify"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="HardcodedText,MissingConstraints,TextContrastCheck,TextSizeCheck" />
+
+    <Button
+        android:id="@+id/btnSpotify"
+        android:layout_width="167dp"
+        android:layout_height="120dp"
+        android:layout_marginStart="122dp"
+        android:layout_marginEnd="122dp"
+        android:layout_marginBottom="157dp"
+        android:backgroundTint="#A46B97"
+        android:fontFamily="@font/ravi_prakash"
+        android:text="Clique aqui e aproveite!"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textTexto"
+        tools:ignore="HardcodedText,MissingConstraints,TextSizeCheck" />
+
+    <ImageButton
+        android:id="@+id/imagebtnVoltar4"
+        android:layout_width="112dp"
+        android:layout_height="67dp"
+        android:layout_marginStart="68dp"
+        android:layout_marginTop="29dp"
+        android:layout_marginEnd="231dp"
+        android:layout_marginBottom="64dp"
+        android:onClick="MAinActivity"
+        android:backgroundTint="#00FFFFFF"
+        android:src="@drawable/ic_launcher_foreground"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnSpotify"
+        tools:ignore="ContentDescription,MissingConstraints,SpeakableTextPresentCheck"
+        tools:src="@android:drawable/divider_horizontal_textfield" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
