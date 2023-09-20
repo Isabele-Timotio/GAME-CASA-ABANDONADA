@@ -7,6 +7,10 @@
 Para o menu, utilizamos um Canvas com elementos como o painel para definição de background, botões com funções para transitar entre as telas sendo elas para créditos, guia e iniciar o jogo. Foi aplicado também um script para linkar uma cena específica para tansitar a ela mesma.
 
 ![image](https://github.com/Isabele-Timotio/GAME-CASA-ABANDONADA/assets/101645908/34ed8528-ebc8-4ca7-8112-a627c984dbe5)
+![Azul Elementos Isométricos e Mockups Tecnologia na Educação Apresentação de Tecnologia_20230918_125424_0000](https://github.com/Isabele-Timotio/GAME-CASA-ABANDONADA/assets/101645908/e2ab4ac7-2330-48b7-a1ef-2d8ce0171827)
+![Azul Elementos Isométricos e Mockups Tecnologia na Educação Apresentação de Tecnologia_20230918_140353_0000](https://github.com/Isabele-Timotio/GAME-CASA-ABANDONADA/assets/101645908/ed21a222-e6b6-4146-9a8b-851747809dcb)
+
+
 <br>
 <br>
 <h2>°• CENÁRIO •°</h2>
@@ -15,6 +19,10 @@ para mudança de cena, é colocado um script com condição sobre um collider e 
 
 ![image](https://github.com/Isabele-Timotio/GAME-CASA-ABANDONADA/assets/101645908/ebb550b2-95e2-4c0a-9c87-897eb5976318)
 ![image](https://github.com/Isabele-Timotio/GAME-CASA-ABANDONADA/assets/101645908/8d099b3c-ae8a-4968-9a33-1e366376251e)
+![image](https://github.com/Isabele-Timotio/GAME-CASA-ABANDONADA/assets/101645908/c5211038-7928-47e6-8f9c-20f4bf6f6e96)
+![image](https://github.com/Isabele-Timotio/GAME-CASA-ABANDONADA/assets/101645908/1e9668cb-0d21-415d-8382-a889b447e8d3)
+
+
 <br>
 <br>
 <h2>°• MOVIMENTAÇÃO •°</h2>
