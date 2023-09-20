@@ -2,6 +2,7 @@
 <h3> Nome dos integrantes: Isabele Timotio e Lucas Wey - 3°JD </h3>
 <h3> Link do vídeo do jogo: https://youtu.be/EC4yj3I7wmE?si=tFsKESvF167_GBYF</h3>
 <br>
+
 <h2>DESCRIÇÃO MOBILE</h2>
 <div>
 <h2>°• 《Introdução》 •°</h2>
