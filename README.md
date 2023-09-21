@@ -1,6 +1,7 @@
 <h1>PEQUENO GRANDE MEDO</h1>
 <h3> Nome dos integrantes: Isabele Timotio e Lucas Chaves Wey - 3°JD </h3>
 <h3> Link do vídeo do jogo: https://youtu.be/EC4yj3I7wmE?si=tFsKESvF167_GBYF</h3>
+<h3> Link do vídeo mobile: https://youtu.be/q9xyyeWmxDI?feature=shared</h3>
 <h3> Link do projeto unity: https://drive.google.com/drive/folders/19nPCnVFH2_0XY1qEC_01tvfwPZxSRlkA?usp=sharing</h3>
 <br>
 <h2>《《 DESCRIÇÃO - JOGO UNITY 》》</h2>
